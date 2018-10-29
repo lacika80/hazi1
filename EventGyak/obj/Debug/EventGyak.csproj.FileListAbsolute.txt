@@ -1,0 +1,7 @@
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\bin\Debug\EventGyak.exe.config
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\bin\Debug\EventGyak.exe
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\bin\Debug\EventGyak.pdb
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\obj\Debug\EventGyak.csprojAssemblyReference.cache
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\obj\Debug\EventGyak.csproj.CoreCompileInputs.cache
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\obj\Debug\EventGyak.exe
+C:\Users\gyurk\source\repos\first-webapplication\EventGyak\EventGyak\obj\Debug\EventGyak.pdb
